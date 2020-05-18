@@ -1,0 +1,9 @@
+12:35:09,406 DEBUG devpinoyLogger:55 - Config File logged!!
+12:35:16,893 DEBUG devpinoyLogger:80 - Chrome launched!!
+12:35:27,341 DEBUG devpinoyLogger:89 - Navigated to: https://www.ilabquality.com
+12:35:55,938 DEBUG cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:35:55,941 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:35:55,944 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:35:55,945 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:35:55,946 DEBUG cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/IT-CENTRAL/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:35:58,677 DEBUG devpinoyLogger:165 - test execution completed!!!

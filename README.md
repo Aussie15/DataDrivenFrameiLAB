@@ -16,3 +16,9 @@ Description of the automation test are as follows:
 
 ===Pom.xml====
 The pom file contains all the dependencies installed
+
+===Extent Report====
+To access the screenshots and error messages you can go to the Target folder -> Surefire-reports -> html -> extent.html
+
+===UFT project===
+UFT Project isn't in a folder

@@ -3,7 +3,7 @@ Description of the automation test are as follows:
 
 ===Java Folder====
 1.The main test is in the java folder, in there you can find my testBase folder which has the chromeDriver as well as my functions I created.
-2.You will also be able to see the testcases of multiple tests that I have practiced on but the main one at hand is "ILabAuto", any questions on the test you are free to contact me at any time.
+2.You will also be able to see the testcases of multiple tests that I have practiced on but the main one at hand is "ILabAssessment", any questions on the test you are free to contact me at any time.
 3.NOTE: when running the test in chrome you will get something like this appear a few times "[1589809856.197][SEVERE]: Timed out receiving message from renderer: 0.100" reason for that is I inserted log4j properties and in that property folder there are rolling appenders which has that appear multiple times, not to worry test still runs as per usual. It is used to give me an accurate output reading.
 4.In the utilities folder you will find a screenshot method as well as reading an excel sheet with data in them.
 
@@ -20,5 +20,3 @@ The pom file contains all the dependencies installed
 ===Extent Report====
 To access the screenshots and error messages you can go to the Target folder -> Surefire-reports -> html -> extent.html
 
-===UFT project===
-UFT Project isn't in a folder
